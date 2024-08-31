@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @madhav2348<br>- 👀 I’m interested in programming and music <br>- 🌱 I’m currently learning many things that i cant tell<br>- 💞️ I’m looking to collaborate on ant project in future<br>- 📫 How to reach me , its simple mail me  on madhav23484@gmail.com or in discord "maxismusic" <br>- 😄 Pronouns: idk what does means<br>- ⚡ Fun fact: im learning too much and forget that too much
+- 👋 Hi, I’m @madhav2348<br>- 👀 I’m interested in programming and music <br>- 🌱 I’m currently learning many things that i cant tell<br>- 💞️ I’m looking to collaborate on project in future<br>- 📫 How to reach me , its simple mail me  on madhav23484@gmail.com or in discord "maxismusic" <br>- 😄 Pronouns: idk what does means<br>- ⚡ Fun fact: im learning too much and forget that too much
 
 
 ## 🌐 Socials:
