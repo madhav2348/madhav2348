@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m madhav aka Maxis Music <br>
 - 👀 I’m interested in programming and music . I released my first track `Snowly Hearts` in all major streaming platforms<br>
-- 🌱 I’m currently learning many things that i cant tell<br>
+- 🌱 I’m currently ... .  .  alive<br>
 - 💞️ I’m looking to collaborate on project in future<br>
 - 📫 How to reach me , its simple DM in discord "maxismusic" <br>
 - 😄 Pronouns: idk what does means<br>
