@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming and music . I released my first track `Snowly Hearts` in all major streaming platforms<br>
 - 🌱 I’m currently ... .  .  alive<br>
 - 💞️ I’m looking to collaborate on project in future<br>
-- 📫 How to reach me , its simple DM in discord "madhav_majumdar" <br>
+- 📫 How to reach me , its simple DM in discord "`madhav_majumdar`" <br>
 - 😄 Pronouns: idk what does means<br>
 - ⚡ Fun fact: im learning too much and forget that too much
 <!--
