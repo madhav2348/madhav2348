@@ -1,4 +1,4 @@
-#  Hey, I'm Madhav:
+#  Hey, I'm Madhav: <img src="https://avatars.githubusercontent.com/u/161720210?v=4" width="30" height="30" style="border-radius: 10%;">
 <!--- 👋 Hi, I’m madhav aka Maxis Music <br> -->
 <!-- -  I’m interested in programming and music . -->
 <!---  I released my first track `Snowly Hearts` in all major streaming platforms<br>-->
@@ -40,3 +40,5 @@
 [![](https://visitcount.itsvg.in/api?id=madhav2348&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
