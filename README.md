@@ -4,7 +4,7 @@
 <!---  I released my first track `Snowly Hearts` in all major streaming platforms<br>-->
 <!--- 🌱 I’m currently ... .  .  alive<br>
 - 💞️ I’m looking to collaborate on project in future<br>-->
--  How to reach me , its simple DM in Discord or Twitter "`madhav_majumdar`" <be>
+-  How to reach me , its simple DM in Discord "`madhav_majumdar`" <be> LinkedIn if fine too
 <!--- 😄 Pronouns: idk what does means<br>
 - ⚡ Fun fact: im learning too much and forget that too much -->
 ### Description
